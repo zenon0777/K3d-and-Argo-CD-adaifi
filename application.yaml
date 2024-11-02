@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/zenon0777/K3d-and-Argo-CD.git
+    repoURL: https://github.com/zenon0777/K3d-and-Argo-CD-adaifi.git
     targetRevision: HEAD
     path: dev
 
