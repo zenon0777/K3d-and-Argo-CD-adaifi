@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: web-app-1
-        image: its0me/myportfolio:latest
+        image: wil42/playground:v2
         ports:
         - containerPort: 8080
